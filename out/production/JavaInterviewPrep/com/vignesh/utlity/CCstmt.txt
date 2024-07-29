@@ -1,0 +1,8 @@
+S No.	Value Date	Transaction Date	Cheque Number	Transaction Remarks	Withdrawal Amount (INR )	Deposit Amount (INR )	Balance (INR )
+1	13/06/2024	13/06/2024	-	UPI/416556043720/food/amzn-dm6pjymnvk/Yes Bank Ltd/ICIf1f28020394d49a38f10a6fd3	90
+2	13/06/2024	13/06/2024	-	UPI/453166838735/bakery/paytmqry48qouxg/Yes Bank Ltd/ICI4bfeac08b9914d2f84fb33f	40
+3	13/06/2024	13/06/2024	-	UPI/453185043391/grocery/paytmqr1ye4ylgn/Yes Bank Ltd/ICIda9ea1d7ae1348db968f1d	100
+4	13/06/2024	13/06/2024	-	UPI/416516844525/Pay To Mrs  POR/bharatpe0989377/Yes Bank Ltd/ICI0a286f4a79bb40	295
+5	13/06/2024	13/06/2024	-	UPI/416503640384/grocery/paytm.s10zugk@p/YES BANK PTY/ICIfeb4b45b6d8c45f2b2c78d	100
+6	13/06/2024	13/06/2024	-	UPI/453139345718/fruits/q625392096@ybl/Yes Bank Ltd/ICIb14b05330b294a7c92c44b29	50
+7	13/06/2024	13/06/2024	-	UPI/453148540259/grocery/q488935167@ybl/Yes Bank Ltd/ICI6093b6a0b2a04e319fb4859	57
